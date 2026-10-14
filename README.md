@@ -17,6 +17,9 @@ The design assumptions made while modelling:
 - Each customer can have multiple boats and each boat can have multiple owners
 
 Data Dictionary
-The full data dictionary is in [Data Dictionary (PDF)](docs/data-dictionary.pdf)
+The full data dictionary is in [Data-Dictionary](docs/data-dictionary.pdf)
 
+Tools Used
+Lucidchart
+PostgreSQL, with any SQL client (e.g. pgAdmin, psql, DBeaver)
 
