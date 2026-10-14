@@ -1,6 +1,9 @@
 # Solent-Boats
 
-A university database design project: a normalised PostgreSQL database for a boat business, with carefully defined relationships, constraints and data types, a full Entity Relationship Diagram (ERD), and documented design assumptions.
+A university database design project: 
+A normalised PostgreSQL database for a boat business, with carefully defined relationships, constraints and data types, a full Entity Relationship Diagram (ERD), and documented design assumptions.
+
+Due to this being a group project and me being locked out of my original GitHub account, I only have part of my contributions to the project.
 
 Overview
 
